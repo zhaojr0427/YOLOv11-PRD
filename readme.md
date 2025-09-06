@@ -39,4 +39,6 @@ Ablation Code Modification Points
 Location: ultralytics/cfg/models/11/
 
 Purpose: Different configuration files within this folder represent individual ablation settings.
-For example, selectively disabling or replacing modules (P2 head, DynamicHead, transfer learning) allows us to verify the independent contribution of each component.
+For example, selectively disabling or replacing modules (P2 head, DynamicHead, transfer learning) allows us to verify the independent contribution of each component."# YOLOv11-PRD" 
+"# YOLOv11-PRD" 
+# YOLOv11-PRD
